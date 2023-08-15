@@ -31,7 +31,7 @@
 - Регрессионное тестирование
 - Отчет о тестировании итогового проекта
 ## Контакты
--Telegram @IvanEvstafev1997
--Номер телефона 89994465526
--Email grafevstaf@gmail.com
+- Telegram @IvanEvstafev1997 
+- Номер телефона 89994465526 
+- Email grafevstaf@gmail.com 
 
